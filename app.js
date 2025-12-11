@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Simulação de dados de produtos
    const products = [
-    { id: 1, name: 'Paralama Creta 17/21 Esquerdo', price: 705, image: 'para lama.webp' },
+    { id: 1, name: 'Paralama Creta 17/21 Esquerdo', price: 705, image: 'fotos/para lama.webp' },
     { id: 2, name: 'Farol Onix 2020 Direito', price: 580, image: 'fotos/ft1.webp' },
     { id: 3, name: 'Parachoque Dianteiro HB20 2017/20', price: 890, image: 'fotos/ft2.webp' },
     { id: 4, name: 'Retrovisor Corolla 2015 Direito', price: 430, image: 'fotos/ft3.webp' },
